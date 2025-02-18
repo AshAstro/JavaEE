@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JEE_01_Input_Basics/JEE_01_Input_Basics.iml" filepath="$PROJECT_DIR$/JEE_01_Input_Basics/JEE_01_Input_Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEE_02_StaticClass/JEE_02_StaticClass.iml" filepath="$PROJECT_DIR$/JEE_02_StaticClass/JEE_02_StaticClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEE_03_StaticInnerClass/JEE_03_StaticInnerClass.iml" filepath="$PROJECT_DIR$/JEE_03_StaticInnerClass/JEE_03_StaticInnerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEE_04_FinalKeyword/JEE_04_FinalKeyword.iml" filepath="$PROJECT_DIR$/JEE_04_FinalKeyword/JEE_04_FinalKeyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEE_05_StringHandling/JEE_05_StringHandling.iml" filepath="$PROJECT_DIR$/JEE_05_StringHandling/JEE_05_StringHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEE_06_ExceptionHandling/JEE_06_ExceptionHandling.iml" filepath="$PROJECT_DIR$/JEE_06_ExceptionHandling/JEE_06_ExceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEE_06_ExceptionHandling/JEE_07_CustomException/JEE_07_CustomException.iml" filepath="$PROJECT_DIR$/JEE_06_ExceptionHandling/JEE_07_CustomException/JEE_07_CustomException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEE_07_ENUM/JEE_07_ENUM.iml" filepath="$PROJECT_DIR$/JEE_07_ENUM/JEE_07_ENUM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEE_08_ArrayList/JEE_08_ArrayList.iml" filepath="$PROJECT_DIR$/JEE_08_ArrayList/JEE_08_ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEE_09_AutoBoxing_UnBoxing/JEE_09_AutoBoxing_UnBoxing.iml" filepath="$PROJECT_DIR$/JEE_09_AutoBoxing_UnBoxing/JEE_09_AutoBoxing_UnBoxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEE_10_Stack/JEE_10_Stack.iml" filepath="$PROJECT_DIR$/JEE_10_Stack/JEE_10_Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEE_11_LinkedList/JEE_11_LinkedList.iml" filepath="$PROJECT_DIR$/JEE_11_LinkedList/JEE_11_LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEE_12_List/JEE_12_List.iml" filepath="$PROJECT_DIR$/JEE_12_List/JEE_12_List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEE_13_Iterator/JEE_13_Iterator.iml" filepath="$PROJECT_DIR$/JEE_13_Iterator/JEE_13_Iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEE_14_ComparableInterface/JEE_14_ComparableInterface.iml" filepath="$PROJECT_DIR$/JEE_14_ComparableInterface/JEE_14_ComparableInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEE_15_Generics/JEE_15_Generics.iml" filepath="$PROJECT_DIR$/JEE_15_Generics/JEE_15_Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEE_16_GenericsWithJava/JEE_16_GenericsWithJava.iml" filepath="$PROJECT_DIR$/JEE_16_GenericsWithJava/JEE_16_GenericsWithJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEE_17_GenericTypes/JEE_17_GenericTypes.iml" filepath="$PROJECT_DIR$/JEE_17_GenericTypes/JEE_17_GenericTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEE_18_GenericMethod/JEE_18_GenericMethod.iml" filepath="$PROJECT_DIR$/JEE_18_GenericMethod/JEE_18_GenericMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEE_19_GenericBound/JEE_19_GenericBound.iml" filepath="$PROJECT_DIR$/JEE_19_GenericBound/JEE_19_GenericBound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEE_20_WildCardsGenerics/JEE_20_WildCardsGenerics.iml" filepath="$PROJECT_DIR$/JEE_20_WildCardsGenerics/JEE_20_WildCardsGenerics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEE_21_Set/JEE_21_Set.iml" filepath="$PROJECT_DIR$/JEE_21_Set/JEE_21_Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE.iml" filepath="$PROJECT_DIR$/JavaEE.iml" />
+    </modules>
+  </component>
+</project>
