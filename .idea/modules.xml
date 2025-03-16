@@ -24,6 +24,11 @@
       <module fileurl="file://$PROJECT_DIR$/JEE_19_GenericBound/JEE_19_GenericBound.iml" filepath="$PROJECT_DIR$/JEE_19_GenericBound/JEE_19_GenericBound.iml" />
       <module fileurl="file://$PROJECT_DIR$/JEE_20_WildCardsGenerics/JEE_20_WildCardsGenerics.iml" filepath="$PROJECT_DIR$/JEE_20_WildCardsGenerics/JEE_20_WildCardsGenerics.iml" />
       <module fileurl="file://$PROJECT_DIR$/JEE_21_Set/JEE_21_Set.iml" filepath="$PROJECT_DIR$/JEE_21_Set/JEE_21_Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEE_22_QUEUE/JEE_22_QUEUE.iml" filepath="$PROJECT_DIR$/JEE_22_QUEUE/JEE_22_QUEUE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEE_23_DEQUE/JEE_23_DEQUE.iml" filepath="$PROJECT_DIR$/JEE_23_DEQUE/JEE_23_DEQUE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEE_24_Maps/JEE_24_Maps.iml" filepath="$PROJECT_DIR$/JEE_24_Maps/JEE_24_Maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEE_25_TreeMap/JEE_25_TreeMap.iml" filepath="$PROJECT_DIR$/JEE_25_TreeMap/JEE_25_TreeMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEE_26_MapSearch/JEE_26_MapSearch.iml" filepath="$PROJECT_DIR$/JEE_26_MapSearch/JEE_26_MapSearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaEE.iml" filepath="$PROJECT_DIR$/JavaEE.iml" />
     </modules>
   </component>
