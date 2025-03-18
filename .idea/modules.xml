@@ -29,6 +29,11 @@
       <module fileurl="file://$PROJECT_DIR$/JEE_24_Maps/JEE_24_Maps.iml" filepath="$PROJECT_DIR$/JEE_24_Maps/JEE_24_Maps.iml" />
       <module fileurl="file://$PROJECT_DIR$/JEE_25_TreeMap/JEE_25_TreeMap.iml" filepath="$PROJECT_DIR$/JEE_25_TreeMap/JEE_25_TreeMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/JEE_26_MapSearch/JEE_26_MapSearch.iml" filepath="$PROJECT_DIR$/JEE_26_MapSearch/JEE_26_MapSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEE_27_Process/JEE_27_Process.iml" filepath="$PROJECT_DIR$/JEE_27_Process/JEE_27_Process.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEE_28_Threads/JEE_28_Threads.iml" filepath="$PROJECT_DIR$/JEE_28_Threads/JEE_28_Threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEE_29_AnonymousThread/JEE_29_AnonymousThread.iml" filepath="$PROJECT_DIR$/JEE_29_AnonymousThread/JEE_29_AnonymousThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEE_30_ThreadProblem/JEE_30_ThreadProblem.iml" filepath="$PROJECT_DIR$/JEE_30_ThreadProblem/JEE_30_ThreadProblem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEE_31_Synchronized/JEE_31_Synchronized.iml" filepath="$PROJECT_DIR$/JEE_31_Synchronized/JEE_31_Synchronized.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaEE.iml" filepath="$PROJECT_DIR$/JavaEE.iml" />
     </modules>
   </component>
