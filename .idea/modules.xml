@@ -34,6 +34,7 @@
       <module fileurl="file://$PROJECT_DIR$/JEE_29_AnonymousThread/JEE_29_AnonymousThread.iml" filepath="$PROJECT_DIR$/JEE_29_AnonymousThread/JEE_29_AnonymousThread.iml" />
       <module fileurl="file://$PROJECT_DIR$/JEE_30_ThreadProblem/JEE_30_ThreadProblem.iml" filepath="$PROJECT_DIR$/JEE_30_ThreadProblem/JEE_30_ThreadProblem.iml" />
       <module fileurl="file://$PROJECT_DIR$/JEE_31_Synchronized/JEE_31_Synchronized.iml" filepath="$PROJECT_DIR$/JEE_31_Synchronized/JEE_31_Synchronized.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JEE_32_WaitAndNotify/JEE_32_WaitAndNotify.iml" filepath="$PROJECT_DIR$/JEE_32_WaitAndNotify/JEE_32_WaitAndNotify.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaEE.iml" filepath="$PROJECT_DIR$/JavaEE.iml" />
     </modules>
   </component>
